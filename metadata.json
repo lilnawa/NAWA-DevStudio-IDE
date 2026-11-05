@@ -1,0 +1,6 @@
+{
+  "name": "NAWA DevStudio",
+  "description": "Next-gen mobile developer IDE featuring a unified Multi-AI Provider Architecture (OpenAI, Gemini, Claude, DeepSeek, Mistral, Groq, OpenRouter, Ollama), simultaneous multi-model AI comparison, code editor, and project assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
